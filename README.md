@@ -4,6 +4,10 @@ A single-page web application designed to help MSPs, IT admins, and HaloPSA engi
 
 The main concept around this tool was to allow non-technical stakeholders to build a workflow specification easily without need for HaloPSA knowledge specifically, they can then provide the specification to a HaloPSA engineer in their company or external HaloPSA partner to give them clear requirements to build within the platform.
 
+<p align="left">
+  <img src="images/screenshot.JPG" alt="HaloPSA Workflow Generator Preview" width="900">
+</p>
+
 ---
 
 **What is this?**
